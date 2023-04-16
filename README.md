@@ -13,3 +13,5 @@ many language that i learned and still learning until then.
 
 ah, i have a quotes that make your day better than before (i hope so) <br>
 *"Life is like a visual novel game, every choice you choose will definitely have an impact on the ending"*
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
