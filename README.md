@@ -4,8 +4,11 @@
   <img>
 </h2>
 
+<br>
 
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=49F5FF&background=3B3B3B00&center=true&vCenter=true&width=460&height=60&lines=Just+people+that+like+learning+to+code;Also+like+RPG+genre+games" alt="Typing SVG" /></a>
+</div>
 
 <br>
 <p style="font-size: 25px;">i'm just common people (or you can call it NPC) that like learning programming language, <br>
