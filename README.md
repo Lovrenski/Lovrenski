@@ -1,5 +1,5 @@
 
-<h2 align="center" style="border-bottom: 2px solid aqua;">
+<h2 align="center" style="border-bottom: 2px solid lightblue;">
   Hi there, i'm Naufal :D
   <img>
 </h2>
