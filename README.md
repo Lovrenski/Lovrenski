@@ -15,6 +15,10 @@
 many language that i learned and still learning until then.</p>
 <br>
 
+<div align="right">
+  <img src="https://tenor.com/view/anime-waves-hi-gif-25928708.gif" align="right" width="220px" height="220px">
+</div>
+
 <br>
 
 <div align="left">
@@ -24,9 +28,6 @@ many language that i learned and still learning until then.</p>
   <li><b>Pronnounce : </b>he/him</li>
   <li><b>Likes : </b>sweet things, cool things, and rpg games</li>
   <li><b>Dislike : </b>something noisy, and rudeness</li>
-  <div align="right">
-    <img src="https://tenor.com/view/anime-waves-hi-gif-25928708.gif" align="right" width="220px" height="220px">
-  </div>
 </div>
   <br>
   
