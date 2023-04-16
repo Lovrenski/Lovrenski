@@ -24,12 +24,14 @@ many language that i learned and still learning until then.</p>
 <br>
 
 <div align="left">
+  <br>
   <li><b>Name : </b>Naufal Azka F.</li>
   <li><b>Age : </b>16</li>
   <li><b>School : </b>SMKN 2 Karanganyar</li>
   <li><b>Pronnounce : </b>he/him</li>
   <li><b>Likes : </b>sweet things, cool things, and rpg games</li>
   <li><b>Dislike : </b>something noisy, and rudeness</li>
+  <br>
 </div>
 
   <br>
