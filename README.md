@@ -28,4 +28,4 @@ many language that i learned and still learning until then.</p>
   <i>"Life is like a visual novel game, every choice you choose will definitely have an impact on the ending"</i>
 </p><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lovrenski&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lovrenski&show_icons=true&theme=dracula)
