@@ -29,6 +29,8 @@ many language that i learned and still learning until then.</p>
   <li><b>Likes : </b>sweet things, cool things, and rpg games</li>
   <li><b>Dislike : </b>something noisy, and rudeness</li>
 </div>
+
+  <br>
   <br>
   
 <p>ah, i have a quotes that make your day better than before (i hope so) <br>
