@@ -4,7 +4,10 @@
   <img>
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=476CF7&width=600&height=40&lines=Just+a+people+that+like+learning+to+code;Also+liked+RPG+genre+game)](https://git.io/typing-svg) <br>
+<center>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=476CF7&width=600&height=40&lines=Just+a+people+that+like+learning+to+code;Also+liked+RPG+genre+game)](https://git.io/typing-svg)
+</center>
+<br>
 i'm just common people (or you can call it NPC) that like learning programming language, <br>
 many language that i learned and still learning until then.
 
