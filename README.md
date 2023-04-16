@@ -8,8 +8,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=49F5FF&background=3B3B3B50&vCenter=true&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" align="center"/></a>
 
 <br>
-i'm just common people (or you can call it NPC) that like learning programming language, <br>
-many language that i learned and still learning until then.
+<p style="font-size: 25px;">i'm just common people (or you can call it NPC) that like learning programming language, <br>
+many language that i learned and still learning until then.</p>
+<br>
 
 <ul>
   <li><b>Name : </b>Naufal Azka F.</li>
