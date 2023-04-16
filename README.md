@@ -1,6 +1,6 @@
 
-<h2 align="center">
-  Hi there, i'm Naufal
+<h2 align="center" style="border-bottom: 2px solid aqua;">
+  Hi there, i'm Naufal :D
   <img>
 </h2>
 
