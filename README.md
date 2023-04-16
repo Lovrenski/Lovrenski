@@ -11,5 +11,5 @@ many language that i learned and still learning until then.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: rock is harder than bread xD
 
-ah, i have a quotes that make your day better than before (i hope so)
-*"life is like a visual novel game, every choice you choose will definitely have an impact on the ending"*
+ah, i have a quotes that make your day better than before (i hope so) <br>
+*"Life is like a visual novel game, every choice you choose will definitely have an impact on the ending"*
