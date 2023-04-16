@@ -15,6 +15,6 @@ many language that i learned and still learning until then.
 - ⚡ Fun fact: rock is harder than bread xD
 
 <p>ah, i have a quotes that make your day better than before (i hope so)</p> <br>
-*"Life is like a visual novel game, every choice you choose will definitely have an impact on the ending"*
+<i>"Life is like a visual novel game, every choice you choose will definitely have an impact on the ending"</i>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Lovrenski&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
