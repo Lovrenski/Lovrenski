@@ -16,7 +16,7 @@ many language that i learned and still learning until then.</p>
 <br>
 
 <div align="right">
-  <img src="https://tenor.com/view/anime-waves-hi-gif-25928708.gif" align="right" width="230px" height="230px">
+  <img src="https://tenor.com/view/anime-waves-hi-gif-25928708.gif" align="right" width="210px" height="210px">
 </div>
 <br>
 
