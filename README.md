@@ -5,7 +5,7 @@
 </h2>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=476CF7&width=600&height=40&lines=Just+a+people+that+like+learning+to+code;Also+liked+RPG+genre+game)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=49F5FF&background=3B3B3B50&vCenter=true&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" align="center"/></a>
 
 <br>
 i'm just common people (or you can call it NPC) that like learning programming language, <br>
