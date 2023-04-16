@@ -11,3 +11,4 @@ many language that i learned and still learning until then.
 - ⚡ Fun fact: rock is harder than bread xD
 
 ah, i have a quotes that make your day better than before (i hope so)
+> Life is like a visual novel game, every choice you choose will have an impact on the ending
