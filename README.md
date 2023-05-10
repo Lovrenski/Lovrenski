@@ -37,7 +37,7 @@ many language that i learned and still learning until then.</p>
   <br>
   <br>
   
-<p>ah, i have a quotes that make your day better than before (i hope so) <br>
+<p>ah, i have a quotes that make your day better than before (i hope so) <br> <br>
   <i>"Life is like a visual novel game, every choice you choose will definitely have an impact on the ending"</i>
 </p><br>
 
