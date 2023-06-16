@@ -42,6 +42,7 @@ many language that i learned and still learning until then.</p>
 <li>Bootstrap</li>
 <li>Laravel</li>
 <li>Codeigniter</li>
+<li>Python</li>
 </div>
 
   <br>
