@@ -33,6 +33,16 @@ many language that i learned and still learning until then.</p>
   <li><b>Dislike : </b>something noisy, and rudeness</li>
   <br>
 </div>
+<div align="left">
+<br>
+<b>Skills : </b>
+<li>HTML</li>
+<li>CSS</li>
+<li>PHP</li>
+<li>Bootstrap</li>
+<li>Laravel</li>
+<li>Codeigniter</li>
+</div>
 
   <br>
   <br>
