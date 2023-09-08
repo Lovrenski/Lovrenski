@@ -36,6 +36,7 @@ many language that i learned and still learning until then.</p>
 <div align="left">
 <br>
 <b>Skills : </b>
+  <hr>
 <li>HTML</li>
 <li>CSS</li>
 <li>PHP</li>
