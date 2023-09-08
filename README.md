@@ -13,7 +13,7 @@
 <br>
 <p style="font-size: 25px; font-weight: 600;" align="center">I'm just common people (or you can call it NPC) that like learning programming language, <br>
 many language that i learned and still learning until then.</p>
-
+<hr>
 <br>
 <br>
 
