@@ -1,8 +1,8 @@
-**Hello there** 👋 <br />
+### Hello there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-Just sharing my experiments here <br />
+Just sharing my experiments here.
 
-I'm currently learning NextJS and MongoDB <br />
+I'm currently learning NextJS and MongoDB.
 
 <details>
 <summary>🍀 About my exploration</summary>
