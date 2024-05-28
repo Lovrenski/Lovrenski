@@ -1,2 +1,2 @@
-<h2>Welcome... I'm Naufal, nice to meet you</h2>
-<hr>
+Welcome... I'm Naufal, nice to meet you
+Just curious about programming world, that's all
