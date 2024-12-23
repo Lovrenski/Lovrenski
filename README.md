@@ -2,7 +2,7 @@
 
 Just sharing my experiments here.
 
-I'm currently learning Next.js and MongoDB.
+I'm currently learning Three.js and Godot.
 
 <details>
 <summary>🍀 About my exploration</summary>
