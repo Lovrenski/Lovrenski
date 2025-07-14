@@ -2,7 +2,7 @@
 
 Just sharing my experiments here.
 
-I'm currently learning Three.js and Godot.
+I'm currently learning TypeScript and Next.js
 
 <details>
 <summary>🍀 About my exploration</summary>
